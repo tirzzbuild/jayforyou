@@ -1,0 +1,3 @@
+/api/*    http://GANTI_IP:GANTI_PORT/api/:splat    200
+/media/*  http://GANTI_IP:GANTI_PORT/media/:splat  200
+/s/*      http://GANTI_IP:GANTI_PORT/s/:splat      200
